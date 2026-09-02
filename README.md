@@ -22,4 +22,4 @@ This repository documents my 36-week Machine Learning curriculum, with a focus o
 
 ## Current Stage
 
-Week 1 — Warm-up, repeatable experiments.
+Week 1 — Warm-up, repeatable experiments. ✅ FINISHED
